@@ -42,13 +42,14 @@ Abaixo estão descritas as funcionalidades que você deve adicionar à sua aplic
     - Preenchimento do Excel: Antes do upload, o usuário deve preencher o Excel com os dados das escolas.
     - Upload do Excel: O aplicativo deve permitir que o usuário faça o upload do arquivo Excel.
     - Carregamento dos Dados: Após o upload, o aplicativo deve ler os dados do Excel e inseri-los na base de dados, criando uma nova entrada para cada escola no arquivo Excel.
+    - Para melhor execução e correção da sua aplicação, a mesma deve estar conteinerizada usando Docker e disponiblizar a imagem junto com a base de dados para o DockerHub 
 
 ---
 
 
 ## 📅 Entrega
 
-Esse desafio **precisa ser entregue através de algum repositório** em até **2 dias** e será avaliado por nós de acordo com os pontos citados acima.
+Esse desafio **precisa ser entregue através de algum repositório** em até **3 dias** e será avaliado por nós de acordo com os pontos citados acima.
 
 ## Contacto
 
